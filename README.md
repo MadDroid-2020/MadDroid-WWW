@@ -1,12 +1,6 @@
-# MadDroid-WWW
-We published the dataset and ad host list in MadDroid to boost our research community.
+# MadDroid: Characterizing and Detecting Devious Ad Contents for Android Apps
 
 dataset.csv  
-This file contains detailed info of our dataset.  
-The dataset constructed in MadDroid resort to AndroZoo dataset.(https://androzoo.uni.lu)  
-If you need metadata of apps, please let us know.  
-
-hosts.txt  
-This file contains the output of our runtime hooking approach.  
-To the best of our knowledge, many of the domains here cannot be found in known ad domain lists.   
-Note that this list does not contain all the ad hosts, just the ones appeared in our experiments, since it's extracted during dynamic testing of our dataset.  
+This file contains information of the dataset we used in our experiment, which is comprised of 40K adware.
+The construction resorts to AndroZoo dataset.(https://androzoo.uni.lu)  
+The metadata of these apps is contained in the latest list maintained by Androzoo.(https://androzoo.uni.lu/lists)
