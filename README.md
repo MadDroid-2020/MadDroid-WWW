@@ -8,6 +8,6 @@ The metadata of these apps is contained in the latest list maintained by Androzo
 ## map-lib-host.csv ##
 
 This file contains the output mappings between ad libraries and ad hosts in our runtime hooking approach.  
-To the best of our knowledge, many of the domains here cannot be found in any ad domain lists.
-Note that this list does not contain all the ad hosts in the Android ecosystem, just the ones appeared in our experiments, since it's iterlatively extracted during the dynamic testing of apps in our dataset. The timeliness of mobile ad hosts should also be considered.
+To the best of our knowledge, many of the domains here cannot be found in any ad domain lists.  
+Note that this list does not contain all the ad hosts in the Android ecosystem, just the ones appeared in our experiments, since it's iterlatively extracted during the dynamic testing of apps in our dataset. The timeliness of mobile ad hosts should also be considered.  
 Therefore, we recommend this list should only be used as a complementary list to other ad host lists.
